@@ -1,0 +1,49 @@
+{
+  "employment": {
+    "job": [
+      {
+        "header": "Graphic Digital Agency",
+        "job_title": "Web Developer",
+        "job_type": "contract",
+        "start_date": "2016-06-09T23:00:00.000Z",
+        "end_date": "2016-07-19T23:00:00.000Z",
+        "overview": "Had a great time working at this amazing agency based in Millbank. Surrounded by some exceptional people I worked on a project for the Royal Society.",
+        "role": [
+          "Usually computer programs follow a set of hard coded rules",
+          [
+            "The app was responsive",
+            "cross device/browser compatible and built in Angular JS."
+          ]
+        ]
+      },
+      {
+        "header": "Velo Marketing",
+        "job_title": "Web Developer",
+        "job_type": "contract",
+        "start_date": "2016-04-09T23:00:00.000Z",
+        "end_date": "2016-05-14T23:00:00.000Z",
+        "overview": "A short term contract at a small agency in Borough",
+        "role": [
+          "Building a website highlighting child protection issues",
+          [
+            "Building an email campaign around the website highlighting child protection issues"
+          ]
+        ]
+      },
+      {
+        "header": "Keytree",
+        "job_title": "UX Developer",
+        "job_type": "permanent",
+        "start_date": "2015-05-18T23:00:00.000Z",
+        "end_date": "2016-03-28T23:00:00.000Z",
+        "overview": "As the first member of the newly formed maintenance team, my role at Keytree was to support three of their biggest clients and their webapps: Jaguar Land Rover, Freshfields and Wetherspoons",
+        "role": [
+          "Building a website highlighting child protection issues",
+          [
+            "Building an email campaign around the website highlighting child protection issues"
+          ]
+        ]
+      }
+    ]
+  }
+}

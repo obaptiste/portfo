@@ -74,4 +74,25 @@
 
   // Your custom JavaScript goes here
   console.log('Hello!');
+  var jobText ="";
+  var jobData  = document.getElementById('jobHistory');
+  // url (required), options (optional)
+  fetch('../data/resume.json', {
+    method: 'get'
+  }).then(function(response) {
+    console.log('status: ', response.status);
+    return response.json();
+  }).then(function(json) {
+    
+    // = .objects[0];
+
+    console.log(json.employment);
+
+    
+  }).catch(function(err) {
+    // Error :(
+    console.log('an error has occured, someting wid de json!');
+  });
+  
+
 })();
